@@ -24,4 +24,8 @@ Here are the steps to install this shader.
 
 7) on the search bar search "motionblur",then you need to enable the cshade motionblur effect and on the settings of the effect wich you can find under the effect selection set the "scale" value to 250.
 
-8) again,on the search bar search "magicbloom",enable it and on the settings of the effect put the "motionblur intensity" to 1550,
+8) again,on the search bar search "magicbloom",enable it and on the settings of the effect set the "bloom intensity" to 1550,then set the "bloom thresold" to 2.1.
+
+9) for the last time on the search bar search "godrays" and select ppfx godrays,after that go ahead on the ppfx godrays settings and crank up the samples to 130.
+
+10) enjoy your shaders!
