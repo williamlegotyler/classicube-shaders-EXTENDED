@@ -11,6 +11,15 @@ This is an enchancement over my previous project called "enchanced classicube sh
 
 -godrays(can create a fake real time shadows effect too)
 
+# system requirements
+
+os:Windows
+
+ram:2 gb
+
+cpu:3 ghz
+
+
 # how to install this shader
 Here are the steps to install this shader.
 
