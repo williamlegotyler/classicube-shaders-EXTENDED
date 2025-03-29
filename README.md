@@ -23,7 +23,7 @@ cpu:3 ghz
 # how to install this shader
 Here are the steps to install this shader.
 
-1) download and install the enchanced classicube shader at:https://github.com/williamlegotyler/enchanced-classicube-shader
+1) download,install and enable the enchanced classicube shader at:https://github.com/williamlegotyler/enchanced-classicube-shader
 
 2) download reshade at(normal version):https://reshade.me/
 
