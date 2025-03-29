@@ -41,6 +41,6 @@ Here are the steps to install this shader.
 
 9) for the last time on the search bar search "godrays" and select ppfx godrays,after that go ahead on the ppfx godrays settings and crank up the samples to 130.
 
-10) exit the reshade menu by pressing the "home" key(if it doesen't close press it multiple times).
+10) exit the reshade menu by pressing the "home" key(if it doesn't close press it multiple times).
 
 11) enjoy your shaders!
