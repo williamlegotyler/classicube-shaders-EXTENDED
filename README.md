@@ -44,3 +44,11 @@ Here are the steps to install this shader.
 10) exit the reshade menu by pressing the "home" key(if it doesn't close press it multiple times).
 
 11) enjoy your shaders!
+
+# in-game screenshots
+![Screenshot (307)](https://github.com/user-attachments/assets/882eab60-07af-4535-a447-c39b6b0cd7ec)
+![Screenshot (308)](https://github.com/user-attachments/assets/de6a9b54-ebc6-455b-a6ac-2e92628af9c0)
+![Screenshot (309)](https://github.com/user-attachments/assets/5544f11b-55aa-4c80-8533-38000f0068d8)
+![Screenshot (310)](https://github.com/user-attachments/assets/54567fc3-2ce8-4e00-9543-72953d5bba6a)
+![Screenshot (311)](https://github.com/user-attachments/assets/00abd856-3ee7-4fdd-9577-a13967b09a76)
+![Screenshot (312)](https://github.com/user-attachments/assets/cad6c0b0-852b-4f90-9cf0-eff44b5372b2)
