@@ -35,7 +35,7 @@ Here are the steps to install this shader.
 
 6) when you see the tutorials skip everything by clicking "continue"
 
-7) on the search bar search "motionblur",then you need to enable the cshade motionblur effect and on the settings of the effect wich you can find under the effect selection set the "scale" value to 250.
+7) on the search bar search "motionblur",then you need to enable the cshade motionblur effect and on the settings of the effect wich you can find under the effect selection set the "scale" value to 300.
 
 8) again,on the search bar search "magicbloom",enable it and on the settings of the effect set the "bloom intensity" to 1550,then set the "bloom thresold" to 2.1.
 
