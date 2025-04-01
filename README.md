@@ -52,3 +52,6 @@ Here are the steps to install this shader.
 ![Screenshot (310)](https://github.com/user-attachments/assets/54567fc3-2ce8-4e00-9543-72953d5bba6a)
 ![Screenshot (311)](https://github.com/user-attachments/assets/00abd856-3ee7-4fdd-9577-a13967b09a76)
 ![Screenshot (312)](https://github.com/user-attachments/assets/cad6c0b0-852b-4f90-9cf0-eff44b5372b2)
+
+# issues
+obviously there gotta be problems right? infactly there is one problem,and it is that if you use this shaders on a classicube server that has custom textures soome blocks may appear purple.
