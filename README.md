@@ -39,7 +39,7 @@ Here are the steps to install this shader.
 
 8) again,on the search bar search "magicbloom",enable it and on the settings of the effect set the "bloom intensity" to 1550,then set the "bloom thresold" to 2.1.
 
-9) for the last time on the search bar search "godrays" and select ppfx godrays,after that go ahead on the ppfx godrays settings and crank up the samples to 133.
+9) for the last time on the search bar search "godrays" and select ppfx godrays,after that go ahead on the ppfx godrays settings and crank up the samples to 134.
 
 10) exit the reshade menu by pressing the "home" key(if it doesn't close press it multiple times).
 
