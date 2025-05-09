@@ -9,7 +9,7 @@ This is an enchancement over my previous project called "enchanced classicube sh
 
 -motionblur
 
--godrays(can create a fake real time shadows effect too)
+-godrays(can create a fake real time shadows and reflections effect too)
 
 # system requirements
 
