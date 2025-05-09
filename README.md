@@ -1,5 +1,5 @@
 # classicube-shaders-EXTENDED
-This is an enchancement over my previous project called "enchanced classicube shader" wich was just a texture pack that tried to recreate the experience of a shader,but this project offers some actual shaders,heres what it will add:
+This is an enhancment over my previous project called "enchanced classicube shader" wich was just a texture pack that tried to recreate the experience of a shader,but this project offers some actual shaders,heres what it will add:
 
 -enchanced colors
 
