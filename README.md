@@ -24,3 +24,8 @@ vram: 1 gb
 # how to install this shader
 Here are the steps to install this shader.
 
+1) download reshade at https://reshade.me
+
+2) execute the reshade installer and select the path to your classicube.exe file.
+
+3) select the rendering api that you are currently using in classicube.
