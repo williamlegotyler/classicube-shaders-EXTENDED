@@ -1,7 +1,7 @@
 # classicube-shaders-EXTENDED
 This is an enhancment over my previous project called "enchanced classicube shader" wich was just a texture pack that tried to recreate the experience of a shader,but this project offers some actual shaders,heres what it will add:
 
--enchanced colors
+-enhanced colors
 
 -better skybox
 
@@ -13,12 +13,13 @@ This is an enhancment over my previous project called "enchanced classicube shad
 
 # system requirements
 
-os:Windows
+os: Windows
 
-ram:2 gb
+ram: 3 gb
 
-cpu:3 ghz
+cpu: 3 ghz
 
+vram: 1 gb
 
 # how to install this shader
 Here are the steps to install this shader.
