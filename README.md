@@ -44,4 +44,6 @@ Here are the steps to install this shader.
 
 10) on the "texture search options" click the + icon and navigate to the "reshade-shaders\textures\" folder.
 
-11) enjoy your shaders!
+11) in the effects tab enable "cshade motionblur", "ppfx godrays", "magicbloom", "lightroom".
+
+12) enjoy your shaders!
