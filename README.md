@@ -38,4 +38,10 @@ Here are the steps to install this shader.
 
 7) extract the shaders.zip file you downloaded and drag the "reshadepreset.ini" and the "reshade-shaders" folder into the classicube folder.
 
-8) launch classicube and enjoy your shaders!
+8) launch classicube and pop out the reshade menu.
+
+9) on settings and on the "effect search options" click the + icon and navigate to the "reshade-shaders\shaders\" folder.
+
+10) on the "texture search options" click the + icon and navigate to the "reshade-shaders\textures\" folder.
+
+11) enjoy your shaders!
