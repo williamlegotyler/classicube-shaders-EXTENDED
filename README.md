@@ -34,6 +34,8 @@ Here are the steps to install this shader.
 
 5) then go ahead on your classicube folder and delete the "reshadepreset.ini" and the "reshade-shaders" folder.
 
-6) extract the shaders.zip file you downloaded and drag the "reshadepreset.ini" and the "reshade-shaders" folder into the classicube folder.
+6) download the shaders.zip file from the latest release at https://github.com/williamlegotyler/classicube-shaders-EXTENDED/releases
 
-7) launch classicube and enjoy your shaders!
+7) extract the shaders.zip file you downloaded and drag the "reshadepreset.ini" and the "reshade-shaders" folder into the classicube folder.
+
+8) launch classicube and enjoy your shaders!
