@@ -53,6 +53,8 @@ Here are the steps to install this shader.
 ![Screenshot (356)](https://github.com/user-attachments/assets/1675e5dd-e786-4e92-8799-cadb186d7e2f)
 ![Screenshot (357)](https://github.com/user-attachments/assets/64db5d58-5d8e-4f09-a385-f4ef72c9c000)
 ![Screenshot (361)](https://github.com/user-attachments/assets/ce8c8464-3192-4f41-affd-328f4d679189)
+![Screenshot (362)](https://github.com/user-attachments/assets/91a98c74-afd0-4395-b14c-49da66c3ed8b)
+![Screenshot (363)](https://github.com/user-attachments/assets/c095cc57-7d22-4164-b869-bca722bcc4a9)
 
 # comparisions 
 
