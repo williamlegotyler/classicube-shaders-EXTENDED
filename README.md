@@ -59,3 +59,11 @@ Here are the steps to install this shader.
 # comparisions 
 
 ![Screenshot (364)](https://github.com/user-attachments/assets/6b0e4dc1-d837-4e32-b069-bf02348e45cd)![Screenshot (365)](https://github.com/user-attachments/assets/957cb041-0193-45fc-bb05-e1afba791d05)
+
+# how to uninstall
+
+1) go to your classicube folder
+
+2) delete the folder "reshade-shaders", remove the files "reshade.ini" and "reshadepresets.ini".
+
+3) the shaders are now successfully uninstalled.
