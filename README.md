@@ -17,7 +17,7 @@ This is an enhancement over my previous project called "enchanced classicube sha
 
 os: Windows
 
-ram: 3 gb
+ram: 4 gb
 
 cpu: 3 ghz
 
