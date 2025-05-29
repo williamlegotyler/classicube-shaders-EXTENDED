@@ -53,8 +53,16 @@ Here are the steps to install this shader.
 # in-game screenshots
 ![Screenshot (381)](https://github.com/user-attachments/assets/a1adaf0c-875b-4e54-9e73-959b06ff4fb0)
 ![Screenshot (382)](https://github.com/user-attachments/assets/e8c8ac80-0d66-440d-a677-14a9a0608fa8)
+![Screenshot (384)](https://github.com/user-attachments/assets/261ee5ab-48db-4c2c-81bc-cf0af3539305)
+![Screenshot (386)](https://github.com/user-attachments/assets/d97e3d1b-9e25-4457-8a22-fd130cb1406d)
+![Screenshot (390)](https://github.com/user-attachments/assets/6773c468-2995-424c-ad9b-5cdea83bf839)
+![Screenshot (388)](https://github.com/user-attachments/assets/39a913fe-35bf-404e-b9b5-0acfa7f69d87)
 
 # comparisions 
+![Uploading Screenshot (394).png…]()
+![Uploading Screenshot (395).png…]()
+![Uploading Screenshot (391).png…]()
+![Screenshot (392)](https://github.com/user-attachments/assets/7e538fd3-c9b9-48dc-b072-772ff693ab79)
 
 # how to uninstall
 
