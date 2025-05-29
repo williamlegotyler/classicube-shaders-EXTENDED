@@ -51,16 +51,10 @@ Here are the steps to install this shader.
 12) enjoy your shaders!
 
 # in-game screenshots
-
-![Screenshot (356)](https://github.com/user-attachments/assets/1675e5dd-e786-4e92-8799-cadb186d7e2f)
-![Screenshot (357)](https://github.com/user-attachments/assets/64db5d58-5d8e-4f09-a385-f4ef72c9c000)
-![Screenshot (361)](https://github.com/user-attachments/assets/ce8c8464-3192-4f41-affd-328f4d679189)
-![Screenshot (362)](https://github.com/user-attachments/assets/91a98c74-afd0-4395-b14c-49da66c3ed8b)
-![Screenshot (363)](https://github.com/user-attachments/assets/c095cc57-7d22-4164-b869-bca722bcc4a9)
+![Screenshot (381)](https://github.com/user-attachments/assets/a1adaf0c-875b-4e54-9e73-959b06ff4fb0)
+![Screenshot (382)](https://github.com/user-attachments/assets/e8c8ac80-0d66-440d-a677-14a9a0608fa8)
 
 # comparisions 
-
-![Screenshot (364)](https://github.com/user-attachments/assets/6b0e4dc1-d837-4e32-b069-bf02348e45cd)![Screenshot (365)](https://github.com/user-attachments/assets/957cb041-0193-45fc-bb05-e1afba791d05)
 
 # how to uninstall
 
