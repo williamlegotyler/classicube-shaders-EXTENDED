@@ -59,9 +59,9 @@ Here are the steps to install this shader.
 ![Screenshot (388)](https://github.com/user-attachments/assets/39a913fe-35bf-404e-b9b5-0acfa7f69d87)
 
 # comparisions 
-![Uploading Screenshot (394).png…]()
-![Uploading Screenshot (395).png…]()
-![Uploading Screenshot (391).png…]()
+![Screenshot (394)](https://github.com/user-attachments/assets/5e2abd89-9d97-44ab-9148-bcccea6a9529)
+![Screenshot (395)](https://github.com/user-attachments/assets/6502c6e9-be31-4511-8f88-2d23d15a6a7d)
+![Screenshot (391)](https://github.com/user-attachments/assets/cbd660dc-d8e9-4f1a-8957-69ba79bd0589)
 ![Screenshot (392)](https://github.com/user-attachments/assets/7e538fd3-c9b9-48dc-b072-772ff693ab79)
 
 # how to uninstall
