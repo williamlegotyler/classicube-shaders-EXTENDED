@@ -26,29 +26,31 @@ vram: 1 gb(2 gb if you plan to enable raytracing)
 # how to install this shader
 Here are the steps to install this shader.
 
-1) download reshade at https://reshade.me
+1) download reshade full add-on support at https://reshade.me
 
 2) execute the reshade installer and select the path to your classicube.exe file.
 
-3) select the rendering api that you are currently using in classicube.
+3) select the opengl rendering api.
 
 4) when it asks you wich effects you want to install, don't install any and click skip.
 
-5) then go ahead on your classicube folder and delete the "reshadepreset.ini" and the "reshade-shaders" folder.
+5) when it asks you wich add-ons you want install press skip.
 
-6) download the shaders.zip file from the latest release at https://github.com/williamlegotyler/classicube-shaders-EXTENDED/releases
+6 ) then go ahead on your classicube folder and delete the "reshadepreset.ini" and the "reshade-shaders" folder.
 
-7) extract the shaders.zip file you downloaded and drag the "reshadepreset.ini" and the "reshade-shaders" folder into the classicube folder.
+7) download the shaders.zip file from the latest release at https://github.com/williamlegotyler/classicube-shaders-EXTENDED/releases
 
-8) launch classicube and pop out the reshade menu.
+8) extract the shaders.zip file you downloaded and drag the "reshadepreset.ini" and the "reshade-shaders" folder into the classicube folder.
 
-9) on settings and on the "effect search options" click the + icon and navigate to the "reshade-shaders\shaders\" folder.
+9) launch classicube and pop out the reshade menu.
 
-10) on the "texture search options" click the + icon and navigate to the "reshade-shaders\textures\" folder.
+10) on settings and on the "effect search options" click the + icon and navigate to the "reshade-shaders\shaders\" folder.
 
-11) in the effects tab enable "cshade motionblur", "ppfx godrays", "magicbloom", "lightroom" and if you want "reflectivebumpmapping".
+11) on the "texture search options" click the + icon and navigate to the "reshade-shaders\textures\" folder.
 
-12) enjoy your shaders!
+12) in the effects tab enable "cshade motionblur", "ppfx godrays", "magicbloom", "lightroom" and if you want "reflectivebumpmapping".
+
+13) enjoy your shaders!
 
 # in-game screenshots
 ![Screenshot (381)](https://github.com/user-attachments/assets/a1adaf0c-875b-4e54-9e73-959b06ff4fb0)
