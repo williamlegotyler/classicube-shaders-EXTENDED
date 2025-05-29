@@ -9,7 +9,9 @@ This is an enhancement over my previous project called "enchanced classicube sha
 
 -motionblur
 
--godrays(can create a fake real time shadows and reflections effect too)
+-godrays(can create a fake real time shadows too)
+
+-raytracing(optional as it gives a huge performance drop)
 
 # system requirements
 
@@ -19,7 +21,7 @@ ram: 3 gb
 
 cpu: 3 ghz
 
-vram: 1 gb
+vram: 1 gb(2 gb if you plan to enable raytracing)
 
 # how to install this shader
 Here are the steps to install this shader.
@@ -44,7 +46,7 @@ Here are the steps to install this shader.
 
 10) on the "texture search options" click the + icon and navigate to the "reshade-shaders\textures\" folder.
 
-11) in the effects tab enable "cshade motionblur", "ppfx godrays", "magicbloom", "lightroom".
+11) in the effects tab enable "cshade motionblur", "ppfx godrays", "magicbloom", "lightroom" and if you want "reflectivebumpmapping".
 
 12) enjoy your shaders!
 
