@@ -3,8 +3,6 @@ This is a majour improvement over my previous project called "enchanced classicu
 
 -enhanced colors
 
--better skybox
-
 -bloom
 
 -motionblur
