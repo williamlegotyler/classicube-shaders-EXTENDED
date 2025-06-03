@@ -19,7 +19,7 @@ ram: 4 gb
 
 cpu: 3 ghz
 
-vram: 1 gb(2 gb if you plan to enable raytracing)
+gpu: gtx 460(a gtx 660 if you plan on raytracing)
 
 # how to install this shader
 Here are the steps to install this shader.
