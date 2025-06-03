@@ -293,7 +293,7 @@ void PS_SSR(in SSR_VSOUT i, out float4 reflection : SV_Target0, out float4 blurb
 	trace.uv = i.uv;
 	trace.hit = 0;
 	trace.num_steps = 20;
-	trace.num_refines = 6;
+	trace.num_refines = 7;
 
 	int j = 0;
 	int k = 0;
