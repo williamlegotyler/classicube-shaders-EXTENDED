@@ -1,5 +1,5 @@
 # classicube-shaders-EXTENDED
-This is a majour improvement over my previous project called "enchanced classicube shader" wich was just a texture pack that tried to recreate the experience of a shader, but this project offers some actual shaders,heres what it will add:
+This is a majour improvement over my previous project called "enchanced classicube shader" wich was just a texture pack that tried to recreate the experience of a shader, but this project offers a repository of actual shaders that when mixed togheter make the experience look way better, heres what it will add:
 
 -enhanced colors
 
@@ -46,7 +46,7 @@ Here are the steps to install this shader.
 
 11 ) on the "texture search options" click the + icon and navigate to the "reshade-shaders\textures\" folder.
 
-12 ) in the effects tab enable "cshade motionblur", "ppfx godrays", "magicbloom", "lightroom" and if you want "reflectivebumpmapping".
+12 ) in the effects tab enable "cshade motionblur", "ppfx godrays", "magicbloom", "lightroom" and if you want raytracing  "reflectivebumpmapping" or "quint ssr".
 
 13 ) enjoy your shaders!
 
