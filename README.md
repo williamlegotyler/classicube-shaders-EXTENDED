@@ -62,6 +62,7 @@ Here are the steps to install this shader.
 ![Screenshot (405)](https://github.com/user-attachments/assets/173a9036-45af-49e3-90fe-369491f291b5)
 ![Screenshot (406)](https://github.com/user-attachments/assets/bb2c1532-5cbc-4b5a-82e9-a1becc730441)
 ![Screenshot (407)](https://github.com/user-attachments/assets/06776cfc-6d27-4a55-9d09-abebec0007a4)
+![Screenshot (408)](https://github.com/user-attachments/assets/44b0c99a-6a32-4530-9d7a-7f57063f8638)
 
 also i am sorry but i haven't got enough time to take in-game screenshots of the shaders with the new quint ssr effect,but i will publish them soon!
 
@@ -70,6 +71,11 @@ also i am sorry but i haven't got enough time to take in-game screenshots of the
 ![Screenshot (395)](https://github.com/user-attachments/assets/6502c6e9-be31-4511-8f88-2d23d15a6a7d)
 ![Screenshot (391)](https://github.com/user-attachments/assets/cbd660dc-d8e9-4f1a-8957-69ba79bd0589)
 ![Screenshot (392)](https://github.com/user-attachments/assets/7e538fd3-c9b9-48dc-b072-772ff693ab79)
+
+![Screenshot (410)](https://github.com/user-attachments/assets/4838836e-a94f-4540-bd99-b19e1a624733)
+![Screenshot (411)](https://github.com/user-attachments/assets/2700ac15-c468-4ef2-8725-567865c7c75c)
+![Screenshot (412)](https://github.com/user-attachments/assets/412af951-e076-49ae-832d-d972238c99ae)
+![Screenshot (413)](https://github.com/user-attachments/assets/d84b66e2-4eda-419b-b34f-567a24c9f17a)
 
 # how to uninstall
 
