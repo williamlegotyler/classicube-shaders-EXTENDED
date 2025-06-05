@@ -57,6 +57,12 @@ Here are the steps to install this shader.
 ![Screenshot (386)](https://github.com/user-attachments/assets/d97e3d1b-9e25-4457-8a22-fd130cb1406d)
 ![Screenshot (390)](https://github.com/user-attachments/assets/6773c468-2995-424c-ad9b-5cdea83bf839)
 ![Screenshot (388)](https://github.com/user-attachments/assets/39a913fe-35bf-404e-b9b5-0acfa7f69d87)
+
+![Screenshot (404)](https://github.com/user-attachments/assets/b3cff310-5113-455c-8551-edd53d551ecd)
+![Screenshot (405)](https://github.com/user-attachments/assets/173a9036-45af-49e3-90fe-369491f291b5)
+![Screenshot (406)](https://github.com/user-attachments/assets/bb2c1532-5cbc-4b5a-82e9-a1becc730441)
+![Screenshot (407)](https://github.com/user-attachments/assets/06776cfc-6d27-4a55-9d09-abebec0007a4)
+
 also i am sorry but i haven't got enough time to take in-game screenshots of the shaders with the new quint ssr effect,but i will publish them soon!
 
 # comparisions 
